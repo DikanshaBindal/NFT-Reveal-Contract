@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: NFTRevealContract
+            expected-sender: ST3RBEP8W4X655SR6FHEPXQGTG5G1PWRBDPDZD2FK
+            cost: 33240
+            path: "contracts\\NFTRevealContract.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
