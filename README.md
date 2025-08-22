@@ -62,6 +62,15 @@ This mechanism is commonly used for NFT drops where the final artwork and rariti
 - `u104`: Invalid token ID - Token ID is invalid
 - `u105`: Mint failed - NFT minting operation failed
 
+## Project Vision
+Our vision is to revolutionize the NFT minting experience by bringing excitement, fairness, and community engagement to digital collectibles through innovative reveal mechanisms. We aim to:
+
+-Create Anticipation: Build excitement in the NFT community by keeping artwork hidden until the perfect reveal moment
+-Ensure Fair Distribution: Prevent selective minting based on rarity, giving all collectors an equal chance at rare items
+-Foster Community Building: Unite collectors around shared anticipation and collective reveal experiences
+-Establish Trust: Provide transparent, secure smart contracts that guarantee fair reveal processes
+-Drive Innovation: Pioneer new standards for mystery NFT collections that can be adopted across the ecosystem
+
 ## Usage Flow
 
 1. **Deploy Contract**: Deploy the contract to Stacks blockchain
@@ -84,11 +93,6 @@ This mechanism is commonly used for NFT drops where the final artwork and rariti
 
 ### Deployment Transaction
 - **Contract Deployment**: `[Transaction ID will be added after deployment]`
-
-### Test Transactions
-- **First Mystery NFT Mint**: `[Transaction ID will be added after first mint]`
-- **Collection Reveal**: `[Transaction ID will be added after reveal]`
-- **Post-Reveal NFT Mint**: `[Transaction ID will be added after reveal testing]`
 
 ## Security Considerations
 
