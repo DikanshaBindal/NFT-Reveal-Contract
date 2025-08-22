@@ -82,10 +82,6 @@ This mechanism is commonly used for NFT drops where the final artwork and rariti
 - **Token Type**: Non-fungible token (NFT)
 - **Reveal Mechanism**: Global reveal affecting all tokens
 
-## Transaction IDs
-
-This section will be populated with actual transaction IDs after contract deployment and testing:
-
 ### Deployment Transaction
 - **Contract Deployment**: `[Transaction ID will be added after deployment]`
 
