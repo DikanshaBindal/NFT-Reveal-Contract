@@ -91,8 +91,6 @@ Our vision is to revolutionize the NFT minting experience by bringing excitement
 - **Token Type**: Non-fungible token (NFT)
 - **Reveal Mechanism**: Global reveal affecting all tokens
 
-### Deployment Transaction
-- **Contract Deployment**: `[Transaction ID will be added after deployment]`
 
 ## Security Considerations
 
